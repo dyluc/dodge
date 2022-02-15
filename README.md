@@ -1,7 +1,7 @@
 
 ![Dodge](graphics/banner.png)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/dyluc/dodge?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/dyluc/dodge?style=for-the-badge)
 
 An Asteroid styled retro arcade game written in LibGDX.
 
